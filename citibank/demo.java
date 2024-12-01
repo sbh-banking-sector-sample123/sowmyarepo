@@ -12,6 +12,7 @@ num=num/10;
 }
 }
 system.out.println(count);
+system.out.println(print sum of number)
 }
 }
 }
