@@ -1,0 +1,6 @@
+select *
+from emp
+where ename ="jack" and deptno=10 (select *
+ from dept
+  where loc=bengaluru;
+
