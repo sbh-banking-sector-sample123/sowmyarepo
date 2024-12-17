@@ -1,0 +1,5 @@
+select *
+from emp
+where sal in (select *
+from emp 
+where ename = "jack" and deptno=40
