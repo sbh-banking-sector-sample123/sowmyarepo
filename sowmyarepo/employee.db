@@ -1,0 +1,4 @@
+select *
+from emp dept
+where emp.deptno=dept.deptno and where job="salesman"
+and dname="managing" and loc="dallas"
